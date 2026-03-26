@@ -1,0 +1,16 @@
+{
+  "name": "xiaokun",
+  "version": "1.0.0",
+  "description": "Theo Duan / 段晓坤",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e \"const me = require('.'); console.log(me.name.en, '·', me.name.zh, '·', me.company)\""
+  },
+  "keywords": ["xiaokun", "theo", "duan", "bytedance"],
+  "author": "Theo Duan <i@xiaokun.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XiaokunDuan/xiaokun.git"
+  }
+}
